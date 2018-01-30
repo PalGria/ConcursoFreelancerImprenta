@@ -1,0 +1,108 @@
+
+#header-logo{
+	background-color: black;
+    background-position: 5% 0%; 
+	margin: 0;
+	padding: 2vh;
+	height: 40vh;
+}
+#logo{
+	background: url("logo.png");
+	height: 35vh;
+    background-size: contain;
+	background-repeat: no-repeat;
+	background-origin: content-box;
+
+}
+#form-container{
+	background: rgba(180, 180, 180, 0.8);
+	padding: 5vh;
+}
+label{
+	float: left;
+    color: #212529;
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: .5rem;
+}
+.service-box i{
+	font-size: 50px;
+}
+.section-heading{
+	padding: 5px;
+}
+
+#features{
+	background-color: rgba(210, 210, 210, 1); 
+}
+
+.ion-navicon-round{
+	color: white;
+	font-size: 24px;
+}
+.nav-item{
+	font-family: 'Dhurjati', sans-serif;
+	font-size: 24px;
+
+}
+#nav1{
+	background-color: yellow;
+	color: black;
+}
+#nav2{
+	background-color: black;
+	color: white;
+}
+
+#nav3{
+	background-color: rgb(254, 73, 236);
+	color: white;
+}
+
+#nav4{
+	background-color: rgb(48, 177, 232);
+	color: white;
+}
+#nav5{
+	background-color: yellow;
+	color: black;
+}
+#nav6{
+	background-color: black;
+	color: white;
+}
+
+
+.nav-fill .nav-item{
+	width: 100%;
+}
+
+.navbar{
+	padding:0;
+}
+
+#highlighted-image{
+
+	background-color: black;
+	margin: 2vh;
+	border-style: solid;
+	border-color: black;
+	height: 50vh;
+	background-image: url("logo.png");
+    background-size: contain;
+	background-repeat: no-repeat;
+	background-origin: content-box;
+
+}
+img{
+    max-width: : 100%;
+    height: auto;
+
+}
+.image-display{
+	padding: 5px;
+}
+.image-display img{
+
+}
